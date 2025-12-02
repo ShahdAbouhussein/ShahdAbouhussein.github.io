@@ -1,5 +1,5 @@
 title: Shahd Abouhussein
-description: A template for your AOS C111/204 project site.
-logo: /assets/IMG/template_logo.png
+description: Shopping Category Prediction from Demographics
+logo: "/assets/IMG/new logo.jpg"
 show_downloads: true
-theme: jekyll-theme-revolve
+theme: jekyll-theme-minimal
